@@ -26,7 +26,6 @@ build/
 mongodb_data/
 
 # Uploads
-uploads/
 
 # Misc
 .DS_Store
